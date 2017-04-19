@@ -1,5 +1,5 @@
-# ADLC-Matlab-Demo
-Algorithm trials for the AUVSI ADLC  project.
+# Segmentation Matlab-Demo
+Algorithm trials 
 
 Icludes:
 * Blob detection
