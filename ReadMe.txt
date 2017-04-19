@@ -1,6 +1,0 @@
-Setup:
-Run Build.m (requiers a c++ compiler)
-
-Run: 
-DetectScript.m
-(choose image with the variable imagePath)
