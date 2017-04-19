@@ -1,5 +1,5 @@
 # ADLC-Matlab-Demo
-Algorithm trials for the AUVSI ADLC  project
+Algorithm trials for the AUVSI ADLC  project.
 
 Icludes:
 * Blob detection
